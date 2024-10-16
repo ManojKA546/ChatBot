@@ -1,0 +1,8 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+uvicorn
+langchainhub
+sentence_transformers
+langchain_google_genai
